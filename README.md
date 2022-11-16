@@ -5,6 +5,8 @@
 - 📫 How to reach me - here
 - Current prefix: Eu
 - PFP by @etamajunk on Twitter.
+
+![:orgluau](https://count.getloli.com/get/@:orgluau?theme=asoul)
 <!---
 phoriah/phoriah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
