@@ -11,7 +11,7 @@
 <br />
 ![qrcode](https://user-images.githubusercontent.com/95628489/231759262-25661006-b7ca-4967-a79d-2b465cd9575a.png)
 <br />
-![:phoriah](https://count.getloli.com/get/@:phoriah?theme=asoul)
+![:phoriah](https://count.getloli.com/get/@:phoriah?theme=rule34)
 <!---
 phoriah/phoriah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
